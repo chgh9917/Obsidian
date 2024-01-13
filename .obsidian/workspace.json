@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "d8bbf91660ce715a",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b493b48e3a843e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de488e901884a27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/maven - gradle 차이.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f128752b699c675b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian 사용법/마크다운.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8e2bdd421345c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "04b56ee2bca6a182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6d2ad4b14e98272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67deaede3ac70e4d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29e14894af0a4b82",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "right": {
+    "id": "0e6f59165500e1ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "149e508d2db60515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb778e1bd89a5e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian 사용법/마크다운.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0f33833bac77636",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian 사용법/마크다운.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc19414128191b56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b3792a35bd815cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian 사용법/마크다운.md"
+              }
+            }
+          },
+          {
+            "id": "be69b00e7dd9d720",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d6d2ad4b14e98272",
+  "lastOpenFiles": [
+    "spring boot/디자인 패턴.md",
+    "spring boot/maven - gradle 차이.md",
+    "무제 파일.canvas",
+    "2024-01-10.md",
+    "obsidian 사용법/마크다운.md",
+    "obsidian 사용법",
+    "spring boot"
+  ]
+}

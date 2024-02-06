@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian 사용법/마크다운.md",
+                "file": "spring boot/REST API.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200
   },
   "right": {
     "id": "0e6f59165500e1ab",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian 사용법/마크다운.md",
+                "file": "spring boot/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian 사용법/마크다운.md",
+                "file": "spring boot/REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian 사용법/마크다운.md"
+                "file": "spring boot/REST API.md"
               }
             }
           },
@@ -168,13 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6d2ad4b14e98272",
+  "active": "f128752b699c675b",
   "lastOpenFiles": [
     "spring boot/디자인 패턴.md",
+    "spring boot/REST API.md",
+    "obsidian 사용법/마크다운.md",
     "spring boot/maven - gradle 차이.md",
     "무제 파일.canvas",
     "2024-01-10.md",
-    "obsidian 사용법/마크다운.md",
     "obsidian 사용법",
     "spring boot"
   ]

@@ -43,3 +43,25 @@
 #### REST API 특징
 - REST 기반으로 시스템을 분산하여 확장성과 재사용성을 높임
 - HTTP 표준을 따르고 있어 여러 프로그래밍 언어로 구현할 수 있음
+
+#### REST API 설계규칙
+**-웹 기반의 REST API를 설계할 경우에는 URI를 통해 자원을 표현해야함**
+- https://thinkground.studio/member/589
+- Resource : member
+- Resource Id : 589
+- 
+**-자원에 대한 조작은 HTTP Method(CRUD)를 통해 표현해야 함**
+- URI에 행위가 들어가면 안됨
+- HEADER를 통해 CRUD를 표현하여 동작을 요청해야 함
+- 
+**-메시지를 통한 리소스 조작**
+- HEADER를 통해 content-type을 지정하여 데이터를 전달
+- 대표적 형식으로는 HTML, XML, JSON, TEXT가 있음
+
+**-URI에는 소문자를 사용
+
+**-Resource의 이름이나 URI가 길어질 경우 하이픈(-)을 통해 가독성을 높일 수 있음
+
+**-언더바( _ )는 사용하지 않음
+
+**-파일 확장자를 표현하지 않음

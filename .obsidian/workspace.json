@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/pom.xml.md",
+                "file": "spring boot/MVC패턴.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring boot/pom.xml.md",
+                "file": "spring boot/MVC패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring boot/pom.xml.md",
+                "file": "spring boot/MVC패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring boot/pom.xml.md"
+                "file": "spring boot/MVC패턴.md"
               }
             }
           },
@@ -170,9 +170,12 @@
   },
   "active": "f128752b699c675b",
   "lastOpenFiles": [
+    "KakaoTalk_20240218_161116974.jpg",
+    "spring boot/pom.xml.md",
+    "spring boot/MVC패턴.md",
+    "3.png",
     "spring boot/디자인 패턴.md",
     "spring boot/REST API.md",
-    "spring boot/pom.xml.md",
     "spring boot/maven - gradle 차이.md",
     "KakaoTalk_20240207_151944306.jpg",
     "KakaoTalk_20240207_151533427 1.jpg",

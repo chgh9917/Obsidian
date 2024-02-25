@@ -11,13 +11,13 @@
 
 **pom 파일에서 프로젝트 정보와 관련된 태그는 아래와 같음
 
-![[KakaoTalk_20240207_151533427 1.jpg]]
+![[tag1.jpg]]
 - < name > : 프로젝트 명
 - < url > : 프로젝트 사이트 URL
 - < description > : 프로젝트에 대한 간단한 설명
 - < organization > : 프로젝트를 관리하는 단체 설명
 
-![[KakaoTalk_20240207_151944306.jpg]]
+![[tag2.jpg]]
 - < groupId > : 프로젝트의 그룹 ID 설정
 - < artifactId > : 프로젝트 아티팩트 ID 설정
 - < version > : 프로젝트의 버전
@@ -26,7 +26,7 @@
                 -war : 웹 어플리케이션을 위한 패키징 방식
 
 프로젝트 의존 설정 - 프로젝트에서 사용하는 라이브러리에 대한 의존성 설정과 관련된 태그는 아래와 같음
-![[3.png]]
+![[tag3.png]]
 - < dependencies > : 라이브러리 의존성 정보를 가지고 있는 dependency 태그를 묶은 태그
 - < dependency > : 각 라이브러리의 정보를 담는 태그
 - < groupId > : 의존성 라이브러리의 group ID 

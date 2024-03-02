@@ -25,3 +25,19 @@
 
 #### 도식화
 ![[hello 1.png]]
+
+#### @RequestMapping
+
+- mvc의 핸들러 매핑을 위해서 DefaultAnnotationHandlerMapping을 사용
+- DefaultAnnotationHandlerMapping 매핑정보로 @RequestMapping 어노테이션을 활용
+- 클래스와 메소드의 RequestMapping을 통해 URL을 매핑하여 경로를 설정하고 해당 메소드에서 처리
+
+     value : url 설정
+     method : GET, POST, DELETE, PUT, PATCH 등
+
+- 스프링 4.3버전 부터 메소드를 지정하는 방식보다 간단하게 사용할 수 있는 어노테이션을 사용할 수 있음
+-@GetMapping
+-@PostMapping
+-@DeleteMapping
+-@PutMapping
+-@PatchMapping
